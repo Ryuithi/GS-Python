@@ -1,6 +1,7 @@
 # GS-Python
 
-## 📌A ideia do grupo é criar um aplicativo de fácil acesso, que possa conectar e ajudar as pessoas que precisam de alimentos com  as ongs. De feirantes, produtores rurais e voluntários de maneira geral dispostos a ajudar a melhorar a vida dessas pessoas mais carentes. Dar suporte e ajudar na área da tecnologia ensinando pequenos produtores rurais a usar aplicativos que ajudem e oriente na hora do plantio até a colheita, evitando desperdicio e aumentando assim sua produtividade.
+## 📌 O projeto do aplicativo consiste em conectar pessoas, feirantes e agricultores com ongs que faça a coleta e a distribuição de alimentos que seria descartados para venda, mas em boas condições de consumo evitando assim o desperdício de alimentos e ajudando as pessoas que necessitam.
+## O Brasil é hoje um dos maiores produtores mundiais de alimento, exportando grande parte de sua produção agrícola e pecuária. Com o uso da tecnologia e a inovação, aplicadas no campo para melhorar a qualidade da produção sem agredir o meio ambiente de maneira sustentável, o uso das IAS regenerativas já é uma realidade na agricultura de grande porte no Brasil.   
 
 ## Requisitos
 * Aplicativo
